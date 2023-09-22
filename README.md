@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3D21AC&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=OL%C3%81%2C+ME+CHAMO+GRAZIELA+OLIVEIRA;SEJAM+BEM+VINDOS!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A131F7&center=falso&vCenter=falso&repeat=verdadeiro&width=438&height=55&lines=Ol%C3%A1%2C+Sejam+bem+vindos!)](https://git.io/typing-svg)
 
 #### SOBRE MIM:👨‍🎓
 Sou Paulista, tenho 23 anos
