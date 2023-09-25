@@ -3,7 +3,7 @@
 #### SOBRE MIM:👨‍🎓
 Sou Paulista, tenho 23 anos
 e sou graduanda de Administração.
-Conheci o mundo da tecnologia atraves do Power Bi. Desde então, tenho curiosidade por aprender mais sobre o mundo cativante da programação.
+Iniciei meus conhecimentos atraves do Power Bi. Desde então, tenho curiosidade por aprender mais sobre novas tecnologias do mundo cativante da programação.
 
 #### HABILIDADES:📋
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
