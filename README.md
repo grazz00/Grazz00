@@ -11,7 +11,7 @@ Iniciei meus conhecimentos atraves do Power Bi, desde então tenho curiosidade p
 Powerbi
 ](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=Powerbi&labelColor=0D1117)
 
-| <img src="https://img.shields.io/badge/OVH%20Cloud-123F6D?style=for-the-badge&logo=ovh&logoColor=white" />   
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />  
 
 
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
