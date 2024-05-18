@@ -13,6 +13,8 @@ Powerbi
 
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+SQL
+](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQLl&labelColor=0D1117)
 
 
 ### MEUS PROJETOS:📋
