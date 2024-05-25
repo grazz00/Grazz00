@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7224A6&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1%2C+Sejam+Bem+Vindos)](https://git.io/typing-svg)
 
 #### SOBRE MIM:👨‍🎓
-Sou Paulista e sou uma graduada em Administração, apaixonada por programação.
+Sou Paulista, graduada em Administração e apaixonada por programação.
 
 Iniciei meus conhecimentos atraves do Power Bi, desde então tenho curiosidade por aprender mais do mundo cativante da programação.
 
